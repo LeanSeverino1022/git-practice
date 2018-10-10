@@ -13,3 +13,5 @@ function setGradient() {
 color1.addEventListener('change', setGradient);
 
 color2.addEventListener('change', setGradient);
+
+/* NEW COOMENT IS SOME NEW FEATURE FOR EXAMPLE */
